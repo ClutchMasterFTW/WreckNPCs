@@ -1,0 +1,5 @@
+name: WreckNPCs
+version: '${project.version}'
+main: me.clutchmasterftw.wrecknpcs.WreckNPCs
+api-version: '1.19'
+depend: [Essentials, VotingPlugin, CraftingStore, Citizens]
